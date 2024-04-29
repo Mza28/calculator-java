@@ -10,9 +10,9 @@ fajl – broj linije koda – zapažanje
 pa onda za start.java je:
 
  LOC 1  fajl nije dodeljen u pravi paket.
- LOC 6  metoda Expression treba da se promeni u expression.
- LOC "8"  Sintaksna greška.
- LOC "19" Sintaksna greška.
+ LOC 6  metoda Expression treba da se promeni u expression. 
+ LOC 8  Sintaksna greška.
+ LOC 19 Sintaksna greška.
 i pronasao sam u Start.java 4 nedoslednosti
 pa onda za calculater.java:
 LOC 1 fajl nije dodeljen u pravi paket.
