@@ -1,9 +1,8 @@
 Izračunao sam sledece stvari:
 LOC za kompletan pojekat
-Ciklomatska i kognitivna složenost metoda evaluateExpression i Calculate
- *koristio sam sonar lint* 
+Ciklomatska i kognitivna složenost metoda evaluateExpression i Calculate 
 LOC ima ukupno 214 linija koda za kompletan projekat
- za evaluateExpression ciklomatska složenost 12 za Calculate je ciklomatska složenost 12 
+ za startje  a za 12 za Calculate je ciklomatska složenost 12 
  a za drugi zadatak je bio da uradim neformalan pregled koda i njegovu statičku analizu bez pokretanje koda u:
 
 fajl – broj linije koda – zapažanje
