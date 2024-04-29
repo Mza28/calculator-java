@@ -9,19 +9,19 @@ LOC ima ukupno 214 linija koda za kompletan projekat
 fajl – broj linije koda – zapažanje
 pa onda za start.java je:
 
-Calculator.java LOC 1  fajl nije dodeljen u pravi paket.
-Calculator.java LOC 6  metoda Expression treba da se promeni u expression. 
-Calculator.java LOC 8  Sintaksna greška.
-Calculator.java LOC 19 Sintaksna greška.
+Start.java LOC 1  fajl nije dodeljen u pravi paket.
+Start.java LOC 6  metoda Expression treba da se promeni u expression. 
+Start.java LOC 8  Sintaksna greška.
+Start.java LOC 19 Sintaksna greška.
 i pronasao sam u Start.java 4 nedoslednosti
 pa onda za calculater.java je:
-Start.java LOC 1 fajl nije dodeljen u pravi paket.
-Start.java LOC 4 klasa Calculator treba da bude privatna a ne javna.
-Start.java LOC 18 preimenovati metodu ToString da ne bi dolazilo do mešanja sa superklasom toString. i na ovoj liniji koda je pronađeno dva CODE SMELL
-Start.java LOC 24 preimenovati metodu 
-Start.java LOC 70 Sintaksna greška 
-Start.java LOC 74 preimenovati metodu
-Start.java LOC 183 višak komande
+Calculator.java LOC 1 fajl nije dodeljen u pravi paket.
+Calculator.java LOC 4 klasa Calculator treba da bude privatna a ne javna.
+Calculator.java LOC 18 preimenovati metodu ToString da ne bi dolazilo do mešanja sa superklasom toString. i na ovoj liniji koda je pronađeno dva CODE SMELL
+Calculator.java LOC 24 preimenovati metodu 
+Calculator.java LOC 70 Sintaksna greška 
+Calculator.java LOC 74 preimenovati metodu
+Calculator.java LOC 183 višak komande
 u calculator.java sam pronasao ukupno 8 nedoslednosti 
 
 hvala na saradnju!
