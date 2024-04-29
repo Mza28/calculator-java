@@ -15,13 +15,14 @@ Start.java LOC 8  Sintaksna greška.
 Start.java LOC 19 Sintaksna greška.
 i pronasao sam u Start.java 4 nedoslednosti
 pa onda za calculater.java je:
-Calculator.java LOC 0 fajl nije dodeljen u pravi paket.
+Calculator.java LOC 1 fajl nije dodeljen u pravi paket.
 Calculator.java LOC 4 klasa Calculator treba da bude privatna a ne javna.
 Calculator.java LOC 18 preimenovati metodu ToString da ne bi dolazilo do mešanja sa superklasom toString. i na ovoj liniji koda je pronađeno dva CODE SMELL
 Calculator.java LOC 24 preimenovati metodu 
 Calculator.java LOC 70 Sintaksna greška 
 Calculator.java LOC 74 preimenovati metodu
 Calculator.java LOC 183 višak komande
+calculater.java LOC 18 preimenovati  metoda
 u calculator.java sam pronasao ukupno 8 nedoslednosti 
 
 hvala na saradnju!
