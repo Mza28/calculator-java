@@ -22,7 +22,6 @@ Calculator.java LOC 24 preimenovati metodu
 Calculator.java LOC 70 Sintaksna greška 
 Calculator.java LOC 74 preimenovati metodu
 Calculator.java LOC 183 višak komande
-calculater.java LOC 18 preimenovati  metoda
+Calculater.java LOC 18 preimenovati metoda
 u calculator.java sam pronasao ukupno 8 nedoslednosti 
 
-hvala na saradnju!
