@@ -14,7 +14,7 @@ pa onda za start.java je:
  LOC 8  Sintaksna greška.
  LOC 19 Sintaksna greška.
 i pronasao sam u Start.java 4 nedoslednosti
-pa onda za calculater.java:
+pa onda za calculater.java je:
 LOC 1 fajl nije dodeljen u pravi paket.
 LOC 4 klasa Calculator treba da bude privatna a ne javna.
 LOC 18 preimenovati metodu ToString da ne bi dolazilo do mešanja sa superklasom toString. i na ovoj liniji koda je pronađeno dva CODE SMELL
