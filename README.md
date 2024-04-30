@@ -5,7 +5,7 @@ LOC ima ukupno 214 linija koda za kompletan projekat
 Ciklomatska složenost calculate je 12 a za evaluateExpression je 12
 Kongitivna složenost Calculate je 15 a za evaluateExpression je 11
 
- a za drugi zadatak je bio da uradim neformalan pregled koda i njegovu statičku analizu bez pokretanje koda u formatu fajl – broj linije koda – zapažanje:
+ a za drugi zadatak:
 Start.java LOC 1  fajl nije dodeljen u pravi paket.
 Start.java LOC 6  metoda Expression treba da se promeni u expression. 
 Start.java LOC 8  Sintaksna greška.
