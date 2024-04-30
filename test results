@@ -1,0 +1,51 @@
+program radi osnovne racunarske probleme 
+Sabiranje uspesno deljenje uspesno mnozenje uspesno mnozenje uspesno oduzimanje uspesno  
+testiranje black box texnikom vecina su bili ocekivani odgovori
+i Moguce je uneti i brojeve sa decimalnim zarezom naravno
+zgrade se nemose koriste 
+Prvi broj u izrazu moze biti negativan ali nije moguce obaviti aritmeticke operacije sa negativnim brojevima iz razloga sto nije moguce koristiti zagrade u izrazu kao sto sam vec spomenuo
+evo nekoliko primera
+Sabiranje 24+3
+izracunalo 27 tacno
+
+33+23
+isaslo je 56
+
+oduzimanje 50-43
+izaslo 7 
+Mnozenje 10*10
+izaslo 100
+
+ 2*43
+izaslo 86 
+
+primer jedinicnog koda koristio sam razne veriacije ali evo jedan primer:
+
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+public class CalculatorTest {
+
+    @Test
+    public void testExpression() {
+        
+        String expression = "20*3-6/2";
+        String expected_result = "60";
+
+        
+        String actual_result = Calculator.Run(expression);
+
+        
+        assertEquals(expected_result, actual_result, "Expression evaluation is incorrect.");
+    }
+}
+
+
+
+
+
+
+
+
+
+
